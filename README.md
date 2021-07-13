@@ -1,0 +1,2 @@
+# Certification-of-Knowledge
+This proposed project is related to certification of technical knowledge, it conducts tests according to the choice and provides generated certificates. In this, there are a group of questions to provide isolation property in which the questions of candidates will not match with each other which is based on their registration number. This project also facilitates organizers to organize their own tests and can invite their candidates to attend the exam.
