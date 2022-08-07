@@ -21,6 +21,7 @@ This project has perfectly executed over wamp server.
 <=================FUNCTIONALITY================================>
 > Quizes by Admin and generates certificate when qualified.
 > Certificate when qualified (PDF format).
+![generate_certificate](https://github.com/iamhimanshusharma/Certification-of-Knowledge/blob/main/generated_certificate.png)
 > User can organize quizes by uploading question paper in csv format given 'question_format.csv' file.
 > Invitation of other candidates via email with exam id.
 
